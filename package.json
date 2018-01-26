@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create_drive": "create_drive_env -m"
+    "postinstall": "create_drive_env -m"
   },
   "author": "Laurent HA TAM DAN",
   "license": "SEE LICENSE IN license.pdf"
